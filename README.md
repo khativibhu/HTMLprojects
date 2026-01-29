@@ -1,5 +1,5 @@
 # Resume Website
-   This website is designed to be a single-page resume website in HTML.#
+   This website is designed to be a single-page resume website in HTML.
 
 # Demo
   
