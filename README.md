@@ -8,9 +8,12 @@
 4. Run: Double-click the file. It will open in your default web browser (Chrome, Firefox, Safari, Edge, etc.).
 
 ## Usage
-*To change the width: Adjust the width attribute in the main <table> tag.
-*To change spacing: Increase or decrease the cellpadding value.
-*To change border: Increase or decrease border value. 
+# To change the width: 
+  Adjust the width attribute in the main <table> tag.
+# To change spacing: 
+Increase or decrease the cellpadding value.
+# To change border: 
+Increase or decrease border value. 
 
 ## Screenshots 
 
