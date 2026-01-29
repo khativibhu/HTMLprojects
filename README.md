@@ -1,5 +1,5 @@
 # Resume Website
-   This page is designed to be a single-page resume website in HTML.
+   This website is designed to be a single-page resume website in HTML.
  
 # Setup Steps
 1. Create the file: Create a new file on your computer named yourWebsiteName.html.
