@@ -1,6 +1,13 @@
 # Resume Website
-   This website is designed to be a single-page resume website in HTML.
- 
+   This website is designed to be a single-page resume website in HTML.#
+
+# Demo
+  
+
+https://github.com/user-attachments/assets/cd944cc1-abb5-41a1-a6b8-950d2a3b4c6a
+
+
+  
 # Setup Steps
 1. Create the file: Create a new file on your computer named yourWebsiteName.html.
 2. Copy the code: Paste the HTML code (provided in the file resumeWebsite.html) into that file.
@@ -22,4 +29,6 @@ Increase or decrease border value.
 <br> <br>
 
 <img width="1911" height="957" alt="image" src="https://github.com/user-attachments/assets/9f97fb09-9b23-47cf-881e-3b2ad6b74d68" />
+
+
 
