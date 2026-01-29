@@ -9,7 +9,7 @@
 
 # Usage
 ### To change the width: 
-  Adjust the width attribute in the main <table> tag.
+  Adjust the width attribute in the main '<table>' tag.
 ### To change spacing: 
 Increase or decrease the cellpadding value.
 ### To change border: 
